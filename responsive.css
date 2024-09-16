@@ -1,0 +1,13 @@
+/* 1 rem = 1 em = 16px */
+
+/* 1350/16  = 84 rem  Small Destop */
+
+
+
+
+@media (max-width:84){
+    .hero{
+        max-width: 120rem;
+    }
+
+}
